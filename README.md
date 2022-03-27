@@ -1,5 +1,8 @@
 # Arabic-Poem-Comprehensive-Dataset
 
+Source of Data: 
+
+
 1. Data Understanding" (Done). 
 2. Data Preprocessing: (Done).
 3. Vectorization: (Partially done). 
