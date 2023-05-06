@@ -4,5 +4,5 @@
 2. Data Preprocessing
 3. Vectorization
 4. Topic Modeling
-5. 
+
 Source of Data: https://github.com/alielkassas/Teaching/tree/master/DataScience/projects/NLP
